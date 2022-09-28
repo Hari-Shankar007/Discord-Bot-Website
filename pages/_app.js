@@ -34,7 +34,7 @@ function MyApp({ Component, pageProps }) {
         {/* <!-- Open Graph data --> */}
         <meta property="og:title" content={title} />
         <meta property="og:url" content={siteUrl} />
-        <meta property="og:image" content="images_7_31.jpg" />
+        <meta property="og:image" content="/images_7_31.jpg" />
         <meta property="og:description" content={description} />
         <meta property="og:site_name" content={title} />
       </Head>
