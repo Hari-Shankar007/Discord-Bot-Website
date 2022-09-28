@@ -8,7 +8,7 @@ const config = {
   name: "Chaos Bot",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/oauth2/authorize?client_id=1021832086228840509&scope=bot%20applications.commands&permissions=2146958847",
   //BotInvite Link
   Features: [
     {
