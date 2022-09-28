@@ -21,7 +21,7 @@ function MyApp({ Component, pageProps }) {
         {/* <!-- Schema.org markup for Google+ --> */}
         <meta itemProp="name" content={title} />
         <meta itemProp="description" content={description} />
-        <meta itemProp="image" content="/logo.png" />
+        <meta itemProp="image" content="/images_7_31.jpg" />
 
         {/* <!-- Twitter Card data --> */}
         <meta name="twitter:card" content="/logo.png" />
@@ -29,7 +29,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         {/* <!-- Twitter summary card with large image must be at least 280x150px --> */}
-        <meta name="twitter:image:src" content="/logo.png" />
+        <meta name="twitter:image:src" content="/images_7_31.jpg" />
 
         {/* <!-- Open Graph data --> */}
         <meta property="og:title" content={title} />
