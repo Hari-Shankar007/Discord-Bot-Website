@@ -5,7 +5,7 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Chaos Bot",
   //BotName
   inviteLink:
     "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
@@ -18,30 +18,30 @@ const config = {
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
-      name: "99% Uptime",
+      name: "Chat System",
       description:
-        "Uptime is a measure of system reliability, expressed as the percentage of time a machine, typically a computer.",
+        "You can talk with Chaos Boi which will help you makes your dsicord community active.",
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
-      name: "Automation",
+      name: "Fun Commands",
       description:
-        "Automation describes a wide range of technologies that reduce  human intervention in processes.",
+        "Chaos Boi has a wide range of fun commands including image apis.",
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
-      name: "Welcomer",
+      name: "Economy System",
       description:
-        "Welcomer is the person who greet the new person in an unique and great way",
+        "Has a wide range of economic commands like daily, beg etc ",
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
-  executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
+  serverCount: 3, //-  - Your
+  memberCount: 70, //--   - Bot
+  executedCommand: 270, //--  - Stats
+  availableCommand: 70, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/zGfSFdxyVd",
+  youtubeLink: "https://www.youtube.com",
 };
 
 export default config;
